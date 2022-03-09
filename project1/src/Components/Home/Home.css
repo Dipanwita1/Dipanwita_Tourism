@@ -1,0 +1,62 @@
+.home1{
+    background-image:url("https://assets.ey.com/content/dam/ey-sites/ey-com/en_ie/topics/covid-19/ey-tourism.jpg") ;
+    /* background-image: url('"https://i.pinimg.com/originals/42/8a/1e/428a1e32639b8d070443b866d9c28da5.jpg"'); */
+    height:180vh;
+}
+.home2{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  color: azure;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: aliceblue;
+}
+.hi1{
+  height:100vh;
+  width: 100%;
+}
+.card-img{ 
+ 
+  
+ 
+    height: 280px;
+    margin-right: 50px;
+}
+/* .card1{
+  padding-right: 20px;
+  width: 33%;
+} */
+ .p1{
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: xx-large;
+   color: beige;
+ }
+ .tms2{
+  text-transform: capitalize;
+  /* margin-bottom: 100px; */
+   font-weight: bolder;
+ color: rgb(26, 25, 21);
+ text-align: right;
+ margin-bottom: 55%;
+ /* margin-left:50%; */
+ margin-right:60%;
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 4vh;
+ }
+ .tms1{
+  text-transform: capitalize;
+ /* margin-bottom: 100px; */
+  font-weight: bolder;
+color: rgb(26, 25, 21);
+text-align: right;
+margin-bottom: 60%;
+/* margin-left:50%; */
+margin-right:60%;
+font-family: 'Times New Roman', Times, serif;
+font-size: 4vh;
+ }
+ .book{
+   color: aqua;
+ }

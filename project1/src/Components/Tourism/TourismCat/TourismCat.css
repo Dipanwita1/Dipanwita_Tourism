@@ -1,0 +1,22 @@
+.tcat{
+    /* background-image: radial-gradient(rgb(40, 194, 241),rgb(177, 16, 115));  */
+    /* background-position: 10%; */
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(129, 19, 28);
+   text-align: center;
+}
+.btncat{
+    background-image: linear-gradient(to top right,red,yellow,rgb(247, 21, 145));
+    width: 20%;
+    height:20vh;
+}
+.tcat1{
+    /* background-image: url(""); */
+    background-image: radial-gradient(rgb(40, 194, 241),rgb(177, 16, 115));
+    background-image: url("https://i.pinimg.com/originals/42/8a/1e/428a1e32639b8d070443b866d9c28da5.jpg");
+    height: 90vh;
+}
+.title-name{
+    text-align: center;
+    color: blue;
+}

@@ -1,0 +1,44 @@
+.form-box1{
+  height: 60vh;
+  width:40%;
+  background-image: -webkit-radial-gradient(rgb(238, 238, 130),white);
+  border-radius: 20px;
+  margin:auto;
+  margin-top:10vh;
+  padding:25px;
+  position: relative;
+}
+.main{
+    height:100%;
+  width: 100%;
+  background-image: linear-gradient(to top right, rgb(211, 95, 114),violet,rgb(255, 230, 0));
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+}
+.head1{
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   color:  rgb(158, 32, 74);
+} 
+.submitB{
+ margin-left: 40%;
+  /* margin-bottom: 40%; */
+  /* margin-top:5%; */
+  border-radius: 5px;
+  color: bisque;
+  background-color: blueviolet; 
+}
+.field{
+  width: 100%;
+  padding: 10px 0;
+  margin: 5px 0;
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  border-bottom: 1px solid #999;
+  outline: none;
+  background: transparent;
+  
+
+}

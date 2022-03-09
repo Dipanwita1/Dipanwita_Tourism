@@ -1,0 +1,26 @@
+.pnf1{
+    color: rgb(4, 8, 61);
+    text-align: left;
+   top: 15%;
+   font-size: 100px;
+    margin-left: 150vh;
+    /* margin-top: 30vh; */
+    position: relative;
+}
+.pnf2{
+    position: relative;
+    color: rgb(4, 8, 61);
+   font-style: normal;
+   font-weight: bold;
+   
+   font-size: 20px;
+   margin-left: 130vh;
+   margin-top: 55vh;
+}
+.pnf-img{
+  background-image: url("https://thumbs.dreamstime.com/z/error-page-not-found-internet-connection-problem-message-flat-vector-illustration-broken-link-web-banner-template-website-standard-163908298.jpg");
+background-size: cover;
+height: 90vh;
+
+
+}

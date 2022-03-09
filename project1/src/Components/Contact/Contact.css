@@ -1,0 +1,42 @@
+.outercon{
+    /* background-image: url("https://bec-iowa.org/wp-content/uploads/2017/08/contact-us-banner.jpg");  */
+    background-image:linear-gradient(to bottom right,rgb(221, 125, 15),rgb(248, 243, 170),rgb(231, 43, 43));
+    height:80vh;
+}
+.inputCon{
+    width: 100%;
+  padding: 10px 0;
+  margin: 5px 0;
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  border-bottom: 1px solid #999;
+  outline: none;
+  background: transparent;
+}
+.contact1{
+    
+    height: 50vh;
+    width:40%;
+    background-image: -webkit-radial-gradient(rgb(245, 245, 185),white);
+    border-radius: 70px;
+    margin:auto;
+    margin-top:10vh;
+    padding:25px;
+}
+.contact2{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(158, 32, 74);
+    text-align: center;
+    
+   
+    /* background-image: -webkit-repeating-linear-gradient(rgb(0, 247, 255),rgb(221, 116, 165)); */
+}
+.contact3{
+    margin-right: 50px;
+}
+.submitC{
+    -moz-box-align: center;
+  background-color: red;
+    padding-right: 20px;
+}

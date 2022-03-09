@@ -1,0 +1,118 @@
+{
+    "Tourism":[{
+        "tour_type":"Hillstation",
+        "tour_source":"WestBengal",
+        "tour_id" :"HS01",
+        "tour_image":"https://www.nirmalatravels.com/wp-content/uploads/2017/02/hill-station-7-days-.jpg",
+    
+        
+        "tour_destination":[{
+            "t_id":"H01",
+            "t_image1":"../../../Image/darjeeling1.jpg",
+            "t_image2":"../../../Image/darjeeling2.jpg",
+            "t_des":"Darjeeling",
+            "t_package":"Rs.14000",
+            "t_description":"Darjeeling is a city and a municipality in the Indian state of West Bengal. It lies in the Lesser Himalayas at an elevation of 2,000 metres ."
+            
+         },
+        {
+            "t_id":"H02",
+            "t_image1":"https://th.bing.com/th/id/R.85828c761829b19e21c578875ae40b09?rik=bKKRQs2Zo4ySoQ&riu=http%3a%2f%2fwww.indiamike.com%2ffiles%2fimages%2f68%2f19%2f31%2fgangtok-sikkim.jpg&ehk=SvPwMYzl2NIU7ChCVTQkuUlE8vQ0JJP2ftgHKmoYdAY%3d&risl=&pid=ImgRaw&r=0",
+            "t_image2":"https://th.bing.com/th/id/R.f8c4de42e837e0812b18f3a8593c61f2?rik=QJ3aYiRhz%2bZcTw&riu=http%3a%2f%2fblog.mayfairhotels.com%2fwp-content%2fuploads%2f2016%2f01%2fYumthang-1024x683.jpg&ehk=p9ReUvdKLF9sGZB5nKzAhZdi6n6jTqolVrogzFSw48c%3d&risl=&pid=ImgRaw&r=0",
+            "t_des":"Gangtok",
+            "t_package":"Rs.12986",
+            "t_description":"Gangtok is a city, municipality, the capital and the largest populated place of the Indian state of Sikkim. It is also the headquarters of the Gangtok District. Gangtok is in the eastern Himalayan range, at an elevation of 1,650 m . "
+            
+        },
+    {
+        "t_id":"H03",
+        "t_image1":"https://www.adotrip.com/public/images/city/5c3f1c7cc5426-Kalimpong%20Travel.jpg",
+        "t_image2":"https://www.adotrip.com/public/images/city/5c3f1c7bd80ce-Kalimpong%20Tours.jpg",
+        "t_des":"Kalimpong",
+        "t_package":"Rs.12567",
+        "t_description":"Kalimpong is in east Indian hill town in the Himalayan foothills of West Bengal.It is 67km from Siliguri.  "}
+    
+]
+    },
+
+
+{
+    "tour_type":"Seabeach",
+        "tour_source":"WestBengal",
+        "tour_id" :"SS01",
+        "tour_image":"https://th.bing.com/th/id/R.413c9b967141ff0a5e82d479ae1dbae5?rik=9YsWHxRaCS3Lew&riu=http%3a%2f%2fwebneel.com%2fwallpaper%2fsites%2fdefault%2ffiles%2fimages%2f04-2013%2f17-beach-sea-photography.jpg&ehk=05gAqiJ7QQi6wuIM0VEdxc7iNlt5BZ8bty1N6kf7wXU%3d&risl=&pid=ImgRaw&r=0",
+    
+        "tour_destination":[{
+            "t_id":"S01",
+            "t_image1":"../../../Image/tajpur1.jpg",
+            "t_image2":"../../../Image/tajpur2.jpg",
+            "t_des":"Tajpur",
+            "t_package":"Rs.4987",
+            "t_description":" Tajpur is an offbeat beach, surrounded by lush greenery and blue waters. The beach has lately gained a lot of attention for the sumptuous seafood that you will get at the eateries on the beach. You must try crab curry here. The dense tamarisk trees at one side of the sea make this place beautiful. One of the main attractions of Tajpur beach is the on and off the visibility of red crabs ."
+        },
+        {
+            "t_id":"S02",
+            "t_image1":"../../../Image/digha1.jpg",
+            "t_image2":"../../../Image/digha2.jpg",
+            "t_des":"Digha",
+            "t_package":"Rs.2955",
+            "t_description":"Digha beach is perhaps one of the most popular beaches in West Bengal that is visited by families over the weekend. The nearby tourist attractions to this beach include Science Center and Shiva Temple. There is a 7 km long stretch of land near the shore where you can sit for hours and witness the waves come and go. There are also various water sports activities on the beach that you can indulge into."
+
+        },
+        {
+            "t_id":"S03",
+            "t_image1":"../../../Image/mandarmani1.jpg",
+            "t_image2":"../../../Image/mandarmani2.jpg",
+            "t_des":"Mandarmani",
+            "t_package":"Rs.3056",
+            "t_description":"Mandarmani is one of the most famous beaches in West Bengal that is visited by several tourists. Mandarmani is also famous for having the longest motorable beach in the country. The stretch is almost 13km long. It is one of the most serene beaches in the state where you will witness the most beautiful sunrise as well as a sunset. While you take a stroll at the beach, you can take sips of the coconut water, and even grab some delectable seafood available in the roadside eateries."
+
+
+        }
+
+    ]
+    
+},
+
+{
+    "tour_type":"Forest",
+        "tour_source":"WestBengal",
+        "tour_id" :"FS01",
+        "tour_image":"https://wallup.net/wp-content/uploads/2017/03/15/77158-mist-forest-trees.jpg",
+        "tour_destination":[{
+            "t_id":"F01",
+            "t_des":"Sundarban",
+            "t_image1":"../../../Image/sundarban1.jpg",
+            "t_image2":"../../../Image/sundarban2.jpg",
+            "t_package":"Rs.10000",
+            "t_description":"Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal."
+        },
+        
+        {
+            "t_id":"F02",
+            "t_des":"Gorumara ",
+            "t_image1":"../../../Image/gorumara1.jpg",
+            "t_image2":"../../../Image/gorumara2.jpg",
+            "t_package":"Rs.10786",
+            "t_description":"Gorumara National Park is a National Park in northern West Bengal, India. Located in the Dooars region of the Himalayan foothills, it is a medium-sized park with grasslands and forests. Gorumara National Park was established in 1994."
+           
+        
+        },
+        {
+            "t_id":"F03",
+            "t_des":"Chilapata ",
+            "t_image1":"../../../Image/chilapata1.jpg",
+            "t_image2":"../../../Image/chilapata2.jpg",
+            "t_package":"Rs.11786",
+            "t_description":"The Chilapata Forest is a dense forest near Jaldapara National Park in Dooars, Alipurduar district, West Bengal, India. It is about 40 km from Alipurduar, and just a few minutes away from Hasimara town."
+        }
+
+
+    ]
+
+}
+
+
+
+]
+}

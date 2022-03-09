@@ -1,0 +1,24 @@
+.b1{
+    color: aliceblue;
+    background-color: aliceblue;
+}
+.stp{
+    /* background-image: linear-gradient(to top right,yellow,orange,blue,violet); */
+    background-image: url("https://i.pinimg.com/originals/42/8a/1e/428a1e32639b8d070443b866d9c28da5.jpg");
+    background-repeat: repeat;
+    height: 100vh;
+}
+.sub{
+    text-align: center;
+    color:rgb(129, 19, 28);
+    font-family: 'Times New Roman', Times, serif;
+}
+.imgs{
+    height: 30vh;
+  
+}
+.cardS{
+   margin-right: 30px;
+
+
+}

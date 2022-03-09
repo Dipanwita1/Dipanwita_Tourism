@@ -1,0 +1,12 @@
+.client{
+    font-size: 24px;
+    font-weight: bold;
+    margin-top:20px;
+    display: block;
+    text-align: center;
+}
+.ctext{
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    
+}

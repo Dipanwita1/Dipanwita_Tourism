@@ -1,0 +1,18 @@
+.lout{
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    text-align: center;
+}
+.out{
+    background-image: url("https://i.pinimg.com/originals/42/8a/1e/428a1e32639b8d070443b866d9c28da5.jpg");
+    background-repeat: repeat;
+    height: 100vh;
+   
+}
+.btn-log{
+ margin-left: 50%;
+ margin-bottom: 40%;
+ border-radius: 5px;
+ color: bisque;
+ background-color: blueviolet;
+}

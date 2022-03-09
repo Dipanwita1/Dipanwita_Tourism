@@ -1,0 +1,44 @@
+/*  */
+.widgetheading3{
+    color: black;
+/* box-sizing: border-box; */
+text-align: center;
+}
+.p2{
+    color: bisque;
+    /* padding-bottom: 30px;
+    padding-top: 30px;
+    padding-right: 30px; */
+
+}
+.link-list {
+   line-height: 1.6;
+   color:black;
+   text-align: center;
+}
+.Con{
+    color: aliceblue;
+}
+.f1{
+    background-color: rgb(142, 60, 197);
+    /* background-color: brown; */
+    color: antiquewhite;
+}
+.link1{
+    color:whitesmoke ;
+}
+.copyright{
+    color: rgb(248, 239, 239);
+    scroll-padding-left: 20px;
+    margin-left: 20px;
+}
+.social{
+    color:black;
+    /* font-family: 'Times New Roman', Times, serif; */
+    padding-top: 20px;
+    text-align: center;
+}
+.footerid{
+    background-color: rgb(11, 11, 109);
+    
+}

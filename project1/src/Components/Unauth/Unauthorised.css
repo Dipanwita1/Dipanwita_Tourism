@@ -1,0 +1,17 @@
+.unauth{
+    background-image:url('https://wallpapercave.com/wp/wp3409949.jpg');
+height: 130vh;
+background-repeat: no-repeat;
+}
+.unlogout{
+    margin-left: 50%;
+    background-color: rgb(218, 196, 238);
+    text-decoration: solid;
+}
+.headingU{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(7, 7, 100);
+    font-style: italic;
+    font-weight: bold;
+}

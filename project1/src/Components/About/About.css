@@ -1,0 +1,51 @@
+.about{
+    
+    height: 60vh;
+    /* background-image: -webkit-repeating-linear-gradient(rgb(255, 217, 0),white); */
+    background-image:linear-gradient(to bottom right,rgb(221, 125, 15),rgb(248, 243, 170),rgb(231, 43, 43));
+  
+    
+}
+.about1{
+    color: rgb(158, 32, 74);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+   
+}
+.pabout{
+    
+
+   color: black;
+   font-family: 'Times New Roman', Times, serif;
+    display:block ;
+    margin-block-start: 1em;
+    margin-inline-start: 30px; 
+     
+   padding-right:5px;
+   padding-left: 5px;
+   margin-bottom: 8px;
+   font-size: 16px;
+   
+}
+.pdiv{
+    background-color:beige;
+    /* padding-bottom: 50px */
+}
+.team{
+    text-align: center;
+}
+.imgdiv{
+    background-color:beige;
+    
+    padding-left: 25%;
+    
+    padding-top: 80px;
+    padding-bottom: 50px;
+     margin-left: 35px;
+
+    margin-top:25px ; 
+    margin-bottom: 20px;
+    display: block;
+    
+    width:99%;
+}

@@ -1,0 +1,10 @@
+/* /* .dmenu{
+   background-color: black;
+} */
+.nav-color{ 
+   background-image: -webkit-radial-gradient(rgb(161, 211, 231),rgb(15, 15, 121));
+}
+.nav-head{
+   color: rgb(24, 18, 10);
+   font-family: 'Times New Roman', Times, serif;
+}
